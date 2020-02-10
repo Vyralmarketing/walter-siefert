@@ -1,6 +1,6 @@
 audit_header: false
-title: Dallas/Fort Worth Real Estate Video Blog with Nick Good
-description: Our mission at The Good Home Team is to be your best resource for Dallas/Fort Worth real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Good Home Team, your professional Dallas/Fort Worth Real Estate Agents.
+title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,45 +11,40 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Nick Good
+  name:
   title:
   license_number:
   about_markdown: |
-    The Good Home Team catapulted onto the North Texas Real Estate Scene when two brothers, Nick Good & Austin Good, decided to fuse their unique skill sets together to formulate a revolutionary real estate company that towers above the rest.
-
-    The Good Home Team is built on a strong foundation of core values and purpose. We operate in a fun, exciting and challenging environment that helps all of us to achieve our goals. Each of our staff members and agents is dedicated to teamwork, self-improvement, positive attitudes and most importantly, a passion and drive to surpass the expectations of every client who does business with us.
-
-    Many agents strive for customer satisfaction, but on our team, satisfaction is not enough. We work constantly to improve our systems and processes, and as a result we go well beyond the standard level of service provided by most Realtors. We are obsessed with serving our clients in a way that leaves them feeling thrilled by our team, not merely satisfied by it.
-  brand: The Good Home Team
-  brokerage: eXp Realty
-  market: Dallas/Fort Worth
-  address: 7965 Custer Rd Suite 125 | Plano, TX | 75025 US
-  phone: 214-612-7610
+  brand:
+  brokerage:
+  market:
+  address:
+  phone:
   phone_type:
   phone2:
   phone2_type:
-  email: nick@goodshomes.com
-  url: https://www.thegoodhometeam.com
+  email:
+  url:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.thegoodhometeam.com/home-valuation/
+  first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.thegoodhometeam.com/results/
+  second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Dallas/Fort Worth Home Worth?"
+    CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.thegoodhometeam.com/home-valuation/
+    CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Dallas/Fort Worth Home?"
-    CTA_text2: "Search the entire MLS for your Dallas/Fort Worth home."
+    CTA_title2: "Looking for a -- MARKET -- Home?"
+    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.thegoodhometeam.com/results/
+    CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -66,11 +61,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/TheGoodHomeTeam
-  linkedin_url: https://www.linkedin.com/in/thegoodhometeam
-  youtube_url: https://www.youtube.com/user/GoodHomeTeam
-  twitter_url: https://twitter.com/nickgoodrealtor
-  instagram_url: https://www.instagram.com/nickgoodrealtor
+  facebook_url:
+  linkedin_url:
+  youtube_url:
+  twitter_url:
+  instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -78,19 +73,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Dallas/Fort Worth Real Estate Podcast with Nick Good'
+  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Dallas/Fort Worth Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Good Home Team - your professional Dallas/Fort Worth Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Dallas/Fort Worth, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Nick Good'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Dallas/Fort Worth Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -98,8 +93,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b72025'
-  theme_color: '#333333'
+  brand_color: '#b40101'
+  theme_color: '#999999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -116,7 +111,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#b72025'
+  button_text_color: '#b40101'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
