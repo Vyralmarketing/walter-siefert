@@ -62,10 +62,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/LesWaldenTeam
-  linkedin_url: https://www.linkedin.com/in/leswaldenrealestate
-  youtube_url: https://www.youtube.com/channel/UCVtYlWmSzAIjlQx8GhTsTuA
-  twitter_url: https://twitter.com/leswalden
+  facebook_url:
+  linkedin_url:
+  youtube_url:
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url:
