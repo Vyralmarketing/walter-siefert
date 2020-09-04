@@ -1454,10 +1454,10 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 17rem;
-  height: 500px; }
+  padding-top: 10rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/img/background.jpg); }
 
-#hero {
+.hero {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
