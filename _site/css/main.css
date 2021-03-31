@@ -2267,6 +2267,12 @@ table tr, table td {
   position: relative;
   top: 0.5rem; }
 
+.google-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
 .trulia-logo {
   top: 0.2rem; }
 
@@ -2335,6 +2341,15 @@ table tr, table td {
 
 .contact-text {
   margin: auto; }
+
+.footer {
+  color: #fff; }
+  .footer .attribution svg {
+    fill: #fff; }
+  .footer .socials svg {
+    fill: #fff; }
+  .footer a {
+    color: #fff; }
 
 .footer {
   background: #999999;
@@ -2566,7 +2581,7 @@ form select {
 #myBtn {
   display: none;
   position: fixed;
-  bottom: 20px;
+  bottom: 80px;
   right: 30px;
   z-index: 99;
   font-size: 18px;
@@ -2584,136 +2599,3 @@ form select {
 @media(max-width: 750) {
   #myBtn {
     bottom: 40px; } }
-.footer {
-  color: #fff; }
-  .footer .attribution svg {
-    fill: #fff; }
-  .footer .socials svg {
-    fill: #fff; }
-  .footer a {
-    color: #fff; }
-
-.newsletter {
-  background: #919191; }
-
-#side-logo {
-  width: 90%;
-  margin: 0 auto; }
-
-.client-testimonial {
-  margin-top: 10px; }
-
-.testimonial-text {
-  font-style: italic; }
-
-.testimonial-author {
-  color: #b40101;
-  margin-top: -20px; }
-
-.recruiting {
-  text-align: center; }
-
-#recruit {
-  width: 75%;
-  margin-left: 13%;
-  margin-top: 2rem;
-  font-size: 18px; }
-
-.recruiting-photo {
-  float: right;
-  margin: 20px; }
-
-#page-bkg {
-  height: 430px; }
-
-.caption {
-  font-size: 16px;
-  font-style: oblique;
-  text-align: center;
-  margin-bottom: 20px; }
-
-.letterhead {
-  text-align: center; }
-
-#letterhead {
-  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  font-weight: 400;
-  margin: 1rem 0;
-  font-size: 2.5rem;
-  text-transform: uppercase; }
-
-#letterhead-title {
-  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  font-weight: 600;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-size: 3.5rem; }
-
-#letterhead-subtitle {
-  margin-bottom: 0;
-  margin-top: 1.5rem; }
-
-.recruiting-page {
-  Font-size: 18px; }
-
-.page-logo {
-  width: 90%;
-  max-width: 40rem;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
-
-.page-hero-img {
-  background-position: center;
-  background-size: cover; }
-
-.e2ma_signup_form_label {
-  color: #555 !important;
-  Text-align: center; }
-
-.e2ma_signup_form_required_footnote {
-  color: #555 !important;
-  Text-align: center; }
-
-.e2ma_signup_form_required_asterix {
-  color: #B40101 !important; }
-
-.e2ma_signup_form input[type="submit"] {
-  background-color: #B40101;
-  margin: 0 auto;
-  display: block; }
-
-.e2ma_signup_form input[type="submit"]:hover {
-  background-color: #fff;
-  Color: #B40101;
-  Border: 1px solid #B40101; }
-
-.e2ma_signup_form {
-  background-color: #fff;
-  Border: 1px solid #cfcfcf;
-  margin-bottom: 22px !important;
-  width: 100% !important; }
-
-.e2ma_signup_message {
-  padding-top: 10px;
-  Color: #353535 !important;
-  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
-  Text-align: center;
-  Font-size: 18px !important;
-  margin-bottom: 10px;
-  Line-height: 1.2; }
-
-.e2ma_signup_form_button_row {
-  margin: 10px 0 0 0 !important;
-  padding: 10px 0 0 0 !important; }
-
-.whitespace {
-  line-height: 1.2;
-  font-size: 18px; }
-
-.landing-list {
-  margin-bottom: 0; }
-  .landing-list li {
-    font-size: 16px;
-    line-height: 1.2; }

@@ -19,6 +19,7 @@
     </div>
 		{% endif %}
 		{% endif %}
+		{% if site.data.settings.socials.google_business_url != null %}
 		<div class="review-button-wrapper">
       <a href="{{site.data.settings.socials.google_business_url}}" class="review button" target="_blank">
 				<svg class="google-logo" version="1.1" id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 328.6" xml:space="preserve">
@@ -28,3 +29,4 @@
 				<path id="path3011" class="st0" d="M925.9,91c-41.4,0-76.2,33-76.2,81.6c0,51.4,38.8,82,80.2,82c34.6,0,55.8-18.9,68.4-35.8 L970.1,200c-7.3,11.4-19.6,22.5-40,22.5c-23,0-33.5-12.6-40.1-24.8l109.5-45.4l-5.7-13.3C983.2,112.8,958.6,91,925.9,91L925.9,91z  M927.3,122.4c14.9,0,25.7,7.9,30.2,17.4l-73.1,30.6C881.2,146.8,903.7,122.4,927.3,122.4L927.3,122.4z"/>
 				<path id="path3015" class="st0" d="M797.5,249.7h36V8.9h-36V249.7z"/></svg> <span class="google-review">Business</span></a>
     </div>
+		{% endif %}
