@@ -6,25 +6,25 @@ custom_links:
     url:
 show_custom_links_new_tab: false
 custom_links_new_tab:
-  - title:
+  - title: 
     url:
 
 client:
-  name:
-  title:
+  name: Walt Siefert
+  title: Associate Broker, Realtor
   license_number:
   about_markdown: |
 
   brand:
-  brokerage:
-  market:
-  address:
-  phone:
+  brokerage: Compass Realty
+  market: Queens & Nassau County
+  address: 1468 Northern Blvd Manhasset, New York 11030
+  phone: 917-833-8661
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: walt@walt-realtor.com
+  url: http://www.walt-realtor.com
 
 forms:
   sitekey:
