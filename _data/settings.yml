@@ -1,5 +1,5 @@
-title: -- market -- Real Estate Video Blog with -- client name --
-description: Our mission at -- client brand -- is to be your best resource for -- market -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- client brand --, your professional -- market -- Real Estate Agents.
+title: Compass Realty Video Blog with Walt Siefert
+description: Our mission is to be your best resource for -- market -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- client brand --, your professional -- market -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -37,15 +37,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- market -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- market -- Home?"
-    CTA_text2: "Search the entire MLS for your -- market -- home."
+    CTA_title2: "Looking for a Home?"
+    CTA_text2: "Search the entire MLS for your home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: /homesearch/
 
