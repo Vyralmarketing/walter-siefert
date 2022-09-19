@@ -89,7 +89,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- market -- Real Estate Video Blog
+  hero_text: Queens & Nassau County<br>Real Estate Video Blog
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
@@ -97,7 +97,7 @@ images:
   header_overlay: rgba(0, 0, 0, 0.3)
 
 site_colors:
-  brand_color: '#7C5295'
+  brand_color: '#231f20'
   theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
