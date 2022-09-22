@@ -100,7 +100,7 @@ images:
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-  header_overlay: 
+  header_overlay: rgba(0, 0, 0, 0.3)
 
 site_colors:
   brand_color: '#231f20'
