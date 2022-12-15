@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rates.jpg
-youtube_code: OLijO6aNLMQ
+youtube_code: '-xkhfGVemAg'
 ---
 {% include youtube.html %}
 
